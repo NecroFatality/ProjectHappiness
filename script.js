@@ -1,4 +1,4 @@
-// Your variables
+// variables
 const box = document.querySelector('.gift');
 const lid = document.querySelector('.box-lid');
 const complimentContainer = document.querySelector('.compliment-container');
